@@ -1,4 +1,2 @@
-> 
-# WWW.CODINGDOCTOR.COM
-
-A jekyll website
+# www.codingdoctor.co.uk
+A Jekyll website
