@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Coding Doctor
+---
+
+I am a junior doctor who can code. My main coding interests are in data science (Python and R) and exploring AI applications - mostly CNNs.
+
+![_config.yml]({{ site.baseurl }}/images/logo.png)
