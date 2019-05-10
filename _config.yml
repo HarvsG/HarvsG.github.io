@@ -9,7 +9,7 @@ name: Coding Doctor
 description: A doctor who can code
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar: https://raw.githubusercontent.com/HarvsG/HarvsG.github.io/master/images/logo.png
 
 #
 # Flags below are optional
